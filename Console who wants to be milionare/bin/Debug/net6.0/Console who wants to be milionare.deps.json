@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Console who wants to be milionare/1.0.0": {
+        "runtime": {
+          "Console who wants to be milionare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console who wants to be milionare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

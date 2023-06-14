@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Console_who_wants_to_be_milionare
+build_property.ProjectDir = C:\Users\rilind32\Desktop\Main folder\PolyMath\Sprint 2 - Programing\Assignment\Assignment - C#\Console who wants to be milionare\Console who wants to be milionare\
